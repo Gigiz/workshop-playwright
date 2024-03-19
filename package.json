@@ -1,0 +1,17 @@
+{
+  "name": "realworld-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.7",
+    "prettier": "^3.2.4"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
